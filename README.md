@@ -22,3 +22,11 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# Bookers
+
+投稿・編集・閲覧機能があります
+
+## Details
+
+エラー表示を赤色で表示できるようにしてあります
